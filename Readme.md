@@ -3,5 +3,5 @@
 Para rodar em sua maquina
 
 ```
-Windows XP
+node app.js
 ```
